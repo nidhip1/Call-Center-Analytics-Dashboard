@@ -23,3 +23,8 @@ Call centers need to understand their data to work better and make customers hap
 
 ## What I Analyzed
 **Main Numbers**
+- **Total Calls:** Looked at 1,000 phone calls
+- **Money Made:**  $96,623 in total revenue
+- **Talk Time:** 89,850 minutes spent on calls
+- **Customer Happiness:** Average rating of 3.9 out of 5 stars
+- **Happy Customers:** 307 customers were satisfied (30.7%)
