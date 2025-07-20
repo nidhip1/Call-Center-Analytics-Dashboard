@@ -5,7 +5,7 @@ This Excel project shows how I analyzed real call center data to help businesses
 
 ## Business Problem
 Call centers need to understand their data to work better and make customers happy. This project answers important questions like:
-- When do we get the most calls, and how many staff do we need?
+- When does the business get the most calls?
 - Which locations and employees are doing the best job?
 - Do men and women call at different times or for different reasons?
 - What problems can we fix to work more efficiently?
