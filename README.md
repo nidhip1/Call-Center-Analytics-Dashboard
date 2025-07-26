@@ -31,9 +31,6 @@ Call centers need to understand their data to work better and make customers hap
 - **Talk Time:** 89,850 minutes spent on calls
 - **Customer Rating:** Average rating of 3.9 out of 5 stars
 - **Customer Satisfaction:** 307 customers were satisfied (30.7%)
-
-## Dashboard Preview
-![Dashboard Screenshot](https://github.com/nidhip1/Call-Center-Analytics-Dashboard/blob/main/Call-Center-Analytics-Dashboard.png)
   
 **Who Called & From Where**
 - **Gender Split:** More women called (599) than men (401)
@@ -41,6 +38,9 @@ Call centers need to understand their data to work better and make customers hap
   - Cleveland: 389 calls
   - Columbus: 335 calls
   - Cincinnati: 276 calls
+ 
+## Dashboard Preview
+![Dashboard Screenshot](https://github.com/nidhip1/Call-Center-Analytics-Dashboard/blob/main/Call-Center-Analytics-Dashboard.png)
  
 ## Interactive Dashboard Features
 
@@ -51,7 +51,7 @@ All dashboard elements are connected through an interactive slicer that enables 
 
 **1. Executive KPI Summary**
  - **Live Metrics Display:** Key performance indicators (calls, revenue, duration, ratings) that update dynamically
- - **Period Comparisons:** Automatic calculation of changes (+189 calls, $18,415 revenue change) based on filtered data
+ - **Period Comparisons:** Automatic calculation of changes based on filtered data
  - **Period Comparisons:** Critical business metrics visible immediately upon dashboard load
 
 **2. Call Volume Over Time**
