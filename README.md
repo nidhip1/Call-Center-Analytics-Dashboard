@@ -31,6 +31,9 @@ Call centers need to understand their data to work better and make customers hap
 - **Talk Time:** 89,850 minutes spent on calls
 - **Customer Rating:** Average rating of 3.9 out of 5 stars
 - **Customer Satisfaction:** 307 customers were satisfied (30.7%)
+
+## Dashboard Preview
+![Dashboard Screenshot](https://github.com/nidhip1/Call-Center-Analytics-Dashboard/blob/main/Call-Center-Analytics-Dashboard.png)
   
 **Who Called & From Where**
 - **Gender Split:** More women called (599) than men (401)
